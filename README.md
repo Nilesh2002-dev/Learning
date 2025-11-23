@@ -1,3 +1,3 @@
 # Learning
-This is for my learning pathway
+This is for my learning pathway.
 Author-Nilesh Yadav
